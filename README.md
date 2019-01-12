@@ -1,2 +1,2 @@
 # git-github
-gateway
+gateway project
